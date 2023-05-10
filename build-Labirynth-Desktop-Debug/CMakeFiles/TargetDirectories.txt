@@ -1,0 +1,7 @@
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/Labirynth.dir
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/list_install_components.dir
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/install.dir
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/install/local.dir
+C:/Users/Win/Documents/QT-projects/build-Labirynth-Desktop-Debug/CMakeFiles/install/strip.dir
