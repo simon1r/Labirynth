@@ -103,7 +103,7 @@ int main(){
 
     sf::Texture wall = loadTexture("wall.png");
 
-    sf::Texture grass = loadTexture("grass.jpg");
+    sf::Texture grass = loadTexture("grass.png");
 
     sf::Texture p = loadTexture("guy.png");
 
